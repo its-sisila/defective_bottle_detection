@@ -1,0 +1,10 @@
+torch
+torchvision
+argparse
+# shutil
+# warnings
+# datetime
+opencv-python
+numpy
+albumentations
+pillow

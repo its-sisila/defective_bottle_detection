@@ -1,0 +1,14 @@
+# Large model files
+*.onnx
+*.pt
+*.pth
+*.h5
+*.pkl
+*.bin
+
+# Large data files
+*.zip
+*.tar
+*.gz
+models/
+datasets/
